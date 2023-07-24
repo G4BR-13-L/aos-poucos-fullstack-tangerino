@@ -1,0 +1,30 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":yellow_square:",
+    ":warning:",
+    ":x:",
+    ":white_check_mark:",
+    ":slightly_smiling_face:",
+    ":adhesive_bandage:",
+    ":nail_care:",
+    ":star:",
+    ":100:",
+    ":thinking:",
+    ":movie_camera:",
+    ":u6307:",
+    ":worried:",
+    ":cry:",
+    ":cloud:",
+    ":turtle:",
+    ":card_file_box:",
+    ":motorcycle:",
+    ":inbox_tray:",
+    ":banana:",
+    ":tophat:",
+    ":camera_flash:"
+  ]
+}

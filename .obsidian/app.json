@@ -1,0 +1,17 @@
+{
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "📥 - Inbox",
+  "attachmentFolderPath": "📥 - Inbox",
+  "spellcheck": false
+}

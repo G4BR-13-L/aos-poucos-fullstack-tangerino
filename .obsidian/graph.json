@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"🗃 - Archive\" -path:\"🐢  - Resources/📑 - models\"",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"🥇 - Areas/🍊 - Tangerino\"",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "path:\"🗂️ - Projects/05-2023-Vicky\"",
+      "color": {
+        "a": 1,
+        "rgb": 8192250
+      }
+    },
+    {
+      "query": "path:\"🐢  - Resources/Assets/💔 - Elas\"",
+      "color": {
+        "a": 1,
+        "rgb": 11341864
+      }
+    },
+    {
+      "query": "path:\"🥇 - Areas/🐉 - today\"",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"🐢  - Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 8712253
+      }
+    },
+    {
+      "query": "path:\"🗂️ - Projects\"",
+      "color": {
+        "a": 1,
+        "rgb": 3699967
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1.50463633549985,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.40297121634169,
+  "repelStrength": 13.7641597028784,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.09248815955110715,
+  "close": true
+}
